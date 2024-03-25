@@ -1,3 +1,4 @@
+'use strict'
 const CarBuilder = require("./CarBuilder");
 
 const carro1 = new CarBuilder()
